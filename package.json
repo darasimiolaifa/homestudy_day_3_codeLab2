@@ -1,0 +1,28 @@
+{
+  "name": "Homestudy Day 3 CodeLab 2",
+  "version": "1.0.0",
+  "description": "A repository showing a class declaration, containing a method that returns the sploded version of any string passed to it as a parameter",
+  "main": "app/codeLab.js",
+  "scripts": {
+    "test": "spec/test-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darasimiolaifa/homestudy_day_3_codeLab2.git"
+  },
+  "keywords": [
+    "OOP",
+    "Class",
+    "javascript",
+    "ES6"
+  ],
+  "author": "Olaifa Darasimi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darasimiolaifa/homestudy_day_3_codeLab2/issues"
+  },
+  "homepage": "https://github.com/darasimiolaifa/homestudy_day_3_codeLab2.git#readme",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
